@@ -4,15 +4,11 @@
 
 # Description
 
-A login-register example.
+We created a Twitter Card using HTML, CSS, and JavaScript
 
 # Links
 
 - [Github Repo](https://github.com/AlisanGuler/TwitterCard)
-
-# Features
-
-- It's a well-designed login-register screen and pretty simple to use.
 
 # Technologies Used
 
