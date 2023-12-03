@@ -20,9 +20,6 @@ We created a Twitter Card using HTML, CSS, and JavaScript
 
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
 
-
-# Screenshots
-
 # Gif
 
 <img src="/TwitterCard.gif" max-width="100%" height="auto" >
